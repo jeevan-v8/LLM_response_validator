@@ -43,7 +43,7 @@ LLM-response-validator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/LLM-response-validator.git
+git clone https://github.com/jeevan-v8/LLM_response_validator.git
 cd LLM-response-validator
 ```
 
